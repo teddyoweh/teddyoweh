@@ -8,9 +8,10 @@ class Bio extends SoftwareDeveloper {
   email    = 'teddyoweh@gmail.com';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends Developer {
   languages  = ['Python','PHP','Java','JavaScript', 'C++'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+```
+ 
