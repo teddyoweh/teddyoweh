@@ -1,17 +1,17 @@
   ### TEDDY
   ```js
-import SoftwareDeveloper from 'teddyoweh';
+import Developer from 'teddyoweh';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends Developer {
   name     = 'teddyoweh';
   title    = 'Developer';
-  email    = 'teddyoweh@gmail.com';
+  email    = 'teddy@teddyoweh.com';
 }
 
-class Skills extends Developer {
-  languages  = ['Python','PHP','Java','JavaScript', 'C++'];
+class Skills extends AI Developer {
+  languages  = ['Python','PHP','JavaScript', 'C++'];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  frameworks = ['React', 'React Native', 'Angular'];
 }
 ```
  
