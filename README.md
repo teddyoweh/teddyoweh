@@ -6,12 +6,14 @@ class Bio extends Developer {
   name     = 'teddyoweh';
   title    = 'Developer';
   email    = 'teddy@teddyoweh.com';
+  
 }
 
 class Skills extends AI Developer {
   languages  = ['Python','PHP','JavaScript', 'C++'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React', 'React Native', 'Angular'];
+  jobs = ['ML Developer', 'Fullstack Web Developer', 'Backend Software Developer'];
 }
 ```
  
