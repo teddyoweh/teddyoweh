@@ -6,7 +6,7 @@ class Bio extends Developer {
   name     = 'Ifechukwudeni Oweh';
   title    = 'Developer';
   email    = 'teddy@teddyoweh.com';
-  email    = 'teddyoweh.com';
+  web    = 'teddyoweh.com';
   
 }
 
