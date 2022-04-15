@@ -18,4 +18,4 @@ class Skills extends AI Developer {
   extras = ['Algorithm Skills', 'Competetive programming']'
 }
 ```
- 
+ return "Contact me let discuss ideas! ";
