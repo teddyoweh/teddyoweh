@@ -15,7 +15,7 @@ class Skills extends AI Developer {
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['ReactJS', 'React Native', 'laravel'];
   jobs = ['Machine Learning Developer', 'Fullstack Web Developer', 'Backend Software Developer'];
-  other = ['Algorithm Skills', 'Competetive programming']'
+  extras = ['Algorithm Skills', 'Competetive programming']'
 }
 ```
  
