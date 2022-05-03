@@ -33,7 +33,7 @@ A summary of my Github activity.
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddyoweh&layout=compact&langs_count=10)](https://github.com/teddyoweh/github-readme-stats)
-### Streak Statistics 🐱‍🏍
-Github streak statistics
+
+### Streak Statistics 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teddyoweh)](https://git.io/streak-stats)
