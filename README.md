@@ -27,4 +27,9 @@ class Skills extends AI Developer {
 
 A summary of my Github activity.
 
-![Gerald](https://github-readme-stats.vercel.app/api?username=teddyoweh&hide=contribs,)
+  ![Teddy](https://github-readme-stats.vercel.app/api?username=teddyoweh&hide=contribs,)
+
+### Language Statistics 👀
+MERN Stack, PHP, Elixir (recently), TypeScript & JavaScript
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddyoweh&layout=compact&langs_count=10)](https://github.com/teddyoweh/github-readme-stats)
