@@ -23,4 +23,13 @@ class Skills extends AI Developer {
 ```
 
 
+### Github Statistics 
 
+A summary of my Github activity.
+
+  ![Teddy](https://github-readme-stats.vercel.app/api?username=teddyoweh&hide=contribs,issues)
+
+### Language Statistics
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddyoweh&layout=compact&langs_count=10)](https://github.com/teddyoweh/github-readme-stats)
