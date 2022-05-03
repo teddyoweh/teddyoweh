@@ -22,3 +22,9 @@ class Skills extends AI Developer {
  return "Contact me let's discuss ideas! ";
 ```
 
+
+### Github Statistics ✨
+
+A summary of my Github activity.
+
+![Gerald](https://github-readme-stats.vercel.app/api?username=teddyowehj&hide=contribs,)
