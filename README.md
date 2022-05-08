@@ -7,6 +7,7 @@ class Bio extends Developer {
   title    = 'Developer';
   email    = 'teddy@teddyoweh.com';
   web    = 'teddyoweh.com';
+  linkedin = 'https://www.linkedin.com/in/teddyoweh/';
   
 }
 class Skills extends AI Developer {
