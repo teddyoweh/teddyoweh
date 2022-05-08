@@ -9,7 +9,6 @@ class Bio extends Developer {
   web    = 'teddyoweh.com';
   
 }
-
 class Skills extends AI Developer {
   languages  = ['Python','PHP','JavaScript', 'C'];
   databases  = ['MySQL', 'MongoDB'];
