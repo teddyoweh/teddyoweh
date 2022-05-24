@@ -7,8 +7,8 @@ class Bio extends Developer {
   name     = 'Ifechukwudeni Oweh';
   title    = 'Developer';
   age      = '16';
-  email    = 'teddy@teddyoweh.com';
-  web    = 'teddyoweh.com';
+  email    = 'teddy@teddyoweh.net';
+  web    = 'teddyoweh.net';
   linkedin = 'https://www.linkedin.com/in/teddyoweh/';
   
 }
