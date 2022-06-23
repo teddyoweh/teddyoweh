@@ -44,5 +44,6 @@ A summary of my Github activity.
 
 ### Contribution Statistics 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=teddyoweh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=teddyoweh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 ![](./profile-3d-contrib/profile-night-green.svg)
+![](https://komarev.com/ghpvc/?username=princecodes247&color=green)
