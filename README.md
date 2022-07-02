@@ -4,20 +4,20 @@
 import Developer from 'teddyoweh';
 
 class Bio extends Developer {
-  name     = 'Ifechukwudeni Oweh';
-  title    = 'Developer';
-  age      = '16';
-  email    = 'teddy@teddyoweh.net';
-  web    = 'teddyoweh.net';
-]
+    name     = 'Ifechukwudeni Oweh';
+    title    = 'Developer';
+    age      = '16';
+    email    = 'teddy@teddyoweh.net';
+    web    = 'teddyoweh.net';
+}
   
 }
 class Skills extends AI Developer {
-  languages  = ['Python','PHP','Solidity', 'C'];
-  databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['ReactJS','NextJS','ExpressJS', 'React Native', 'laravel','Angular', 'Vanilla PHP'];
-  jobs = ['Machine Learning Developer', 'Fullstack Web Developer', 'Backend Software Developer'];
-  extras = ['Algorithm Skills', 'Competetive programming'];
+    languages  = ['Python','PHP','Solidity', 'C'];
+    databases  = ['MySQL', 'MongoDB'];
+    frameworks = ['ReactJS','NextJS','ExpressJS', 'React Native', 'laravel','Angular', 'Vanilla PHP'];
+    jobs = ['Machine Learning Developer', 'Fullstack Web Developer', 'Backend Software Developer'];
+    extras = ['Algorithm Skills', 'Competetive programming'];
   
   
 }
