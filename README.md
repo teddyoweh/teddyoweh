@@ -15,7 +15,8 @@ class Bio extends Developer {
 class Skills extends AI Developer {
     languages  = ['Python','R','Javascript', 'C'];
     databases  = ['MySQL', 'MongoDB'];
-    frameworks = ['ReactJS','NextJS','ExpressJS', 'React Native', 'laravel','Angular', 'Vanilla PHP'];
+    web frameworks = ['ReactJS','NextJS','ExpressJS', 'NodeJS','React Native', 'laravel','Angular', 'Vanilla PHP'];
+    ml frameworks= ['Tensorflow','Theano','Sklearn']
     jobs = ['Machine Learning Developer', 'Fullstack Web Developer', 'Backend Software Developer'];
     extras = ['Algorithm Skills', 'Competetive programming'];
   
