@@ -6,7 +6,6 @@ import Developer from 'teddyoweh';
 class Bio extends Developer {
     name     = 'Ifechukwudeni Oweh';
     title    = 'Machine Learning Developer';
-    age      = '16';
     email    = 'teddy@teddyoweh.net';
     web    = 'teddyoweh.net';
 }
