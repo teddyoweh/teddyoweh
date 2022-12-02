@@ -1,5 +1,7 @@
   ### TEDDY
   ![](https://komarev.com/ghpvc/?username=teddyoweh)
+  
+ ![](teddyoweh.net)
   ```js
 import Developer from 'teddyoweh';
 
